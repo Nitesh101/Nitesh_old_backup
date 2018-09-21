@@ -1,0 +1,769 @@
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{24dbefab token=Token{18d22dfa ActivityRecord{1d424825 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t191}}} to stack=1 task=191 at 0
+V/WindowManager(  515): Adding window Window{2b98b477 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{edca923 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{14879a04 token=Token{153d1617 ActivityRecord{9777a96 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t192}}} to stack=1 task=192 at 0
+V/WindowManager(  515): Adding window Window{239c2dcc u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{2b16b10f u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1baf7f78 token=Token{307018db ActivityRecord{fc57dea u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t193}}} to stack=1 task=193 at 0
+V/WindowManager(  515): Adding window Window{1118ddf2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3b46c853 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2a0ffb81 token=Token{2ede4b68 ActivityRecord{378bde8b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t194}}} to stack=1 task=194 at 0
+V/WindowManager(  515): Adding window Window{2c7d83f3 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{2c3d1f80 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2621adc4 token=Token{3ce820d7 ActivityRecord{3790f856 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t195}}} to stack=1 task=195 at 0
+V/WindowManager(  515): Adding window Window{3b17698c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{e4053cf u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{15e07738 token=Token{22ef179b ActivityRecord{287a3faa u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t196}}} to stack=1 task=196 at 0
+V/WindowManager(  515): Adding window Window{1b0e07b2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{94edf13 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{305b61e6 token=Token{6996841 ActivityRecord{2eaa7328 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t197}}} to stack=1 task=197 at 0
+V/WindowManager(  515): Adding window Window{2ad79f3b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{17d1de79 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{34394356 token=Token{5052971 ActivityRecord{3534bb18 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t198}}} to stack=1 task=198 at 0
+V/WindowManager(  515): Adding window Window{250ff7de u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{176e95a9 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2aba3efa token=Token{3e6bfd25 ActivityRecord{14307d1c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t199}}} to stack=1 task=199 at 0
+V/WindowManager(  515): Adding window Window{38af617f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{fcdb352 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3f7bbc62 token=Token{1d08ef2d ActivityRecord{12115244 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t200}}} to stack=1 task=200 at 0
+V/WindowManager(  515): Adding window Window{1c90f447 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3075d6e5 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3e1c5cf6 token=Token{28c42591 ActivityRecord{141f93b8 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t201}}} to stack=1 task=201 at 0
+V/WindowManager(  515): Adding window Window{47c9f00 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{184cf5c9 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{394993bc token=Token{2bf883af ActivityRecord{11dc3f8e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t202}}} to stack=1 task=202 at 0
+V/WindowManager(  515): Adding window Window{3ae94bc0 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{21ef39a7 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2f2854e4 token=Token{2e127077 ActivityRecord{3efa4276 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t203}}} to stack=1 task=203 at 0
+V/WindowManager(  515): Adding window Window{13ca6567 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{1d30f76f u0 Starting com.google.android.GoogleCamera})
+W/ActivityManager(  515): Activity pause timeout for ActivityRecord{3efa4276 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t203 f}
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{21fb17aa token=Token{91b0a95 ActivityRecord{12869a4c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t210}}} to stack=1 task=210 at 0
+I/ActivityManager(  515): Start proc 7983:com.google.android.GoogleCamera/u0a42 for activity com.google.android.GoogleCamera/com.android.camera.CameraLauncher
+V/WindowManager(  515): Adding window Window{25657775 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 6 of 12 (before Window{2572f74d u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{385b5330 token=Token{b8c8873 ActivityRecord{11460ce2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t216}}} to stack=1 task=216 at 0
+V/WindowManager(  515): Adding window Window{20b2c1ea u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 6 of 12 (before Window{3d5e92eb u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{37c6f520 token=Token{51abc23 ActivityRecord{a030152 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t217}}} to stack=1 task=217 at 0
+V/WindowManager(  515): Adding window Window{2ad0f044 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 6 of 13 (before Window{36a98c9b u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{a6074e9 token=Token{3a38a970 ActivityRecord{a4c4fb3 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t218}}} to stack=1 task=218 at 0
+V/WindowManager(  515): Adding window Window{591cc1b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 6 of 12 (before Window{3fb43688 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{37bf0b35 token=Token{396db96c ActivityRecord{503f21f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t224}}} to stack=1 task=224 at 0
+I/ActivityManager(  515): Start proc 8974:com.google.android.GoogleCamera/u0a42 for activity com.google.android.GoogleCamera/com.android.camera.CameraLauncher
+V/WindowManager(  515): Adding window Window{1c5a5dcc u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{2f03ca04 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{e08b68c token=Token{18a62fbf ActivityRecord{16e3d1de u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t225}}} to stack=1 task=225 at 0
+V/WindowManager(  515): Adding window Window{256b9e89 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{270457b7 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3e01ed52 token=Token{34568ddd ActivityRecord{118c7db4 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t226}}} to stack=1 task=226 at 0
+V/WindowManager(  515): Adding window Window{22341377 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{1ca29b95 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{17b4c6d4 token=Token{1082b427 ActivityRecord{2d9786e6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t227}}} to stack=1 task=227 at 0
+V/WindowManager(  515): Adding window Window{28fda16e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{1790011f u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2e9b8ea9 token=Token{21ed1230 ActivityRecord{361e373 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t228}}} to stack=1 task=228 at 0
+V/WindowManager(  515): Adding window Window{1c45998c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{32f4f748 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3272d78f token=Token{7fdf6ee ActivityRecord{3b548c69 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t229}}} to stack=1 task=229 at 0
+V/WindowManager(  515): Adding window Window{2e7befaa u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{2c69f5c6 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1d57c9d4 token=Token{1893e327 ActivityRecord{198411e6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t230}}} to stack=1 task=230 at 0
+V/WindowManager(  515): Adding window Window{70b3f0f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{2cb8101f u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1f2a0c4 token=Token{2068ffd7 ActivityRecord{2d1df356 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t231}}} to stack=1 task=231 at 0
+V/WindowManager(  515): Adding window Window{ee7c8c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{271e12cf u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{c620aaa token=Token{1fc9e995 ActivityRecord{3339954c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t232}}} to stack=1 task=232 at 0
+V/WindowManager(  515): Adding window Window{17dcec14 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{293eb64d u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3e14a5d3 token=Token{2e50c3c2 ActivityRecord{3939f80d u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t233}}} to stack=1 task=233 at 0
+V/WindowManager(  515): Adding window Window{5e6ccd4 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{3c87091a u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{35b798ff token=Token{19a0181e ActivityRecord{2072b459 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t234}}} to stack=1 task=234 at 0
+V/WindowManager(  515): Adding window Window{a5c51d0 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{23a90cf6 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{29b5cd63 token=Token{b468f92 ActivityRecord{319b511d u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t235}}} to stack=1 task=235 at 0
+V/WindowManager(  515): Adding window Window{19a41424 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{37507eea u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{173e758f token=Token{245d4cee ActivityRecord{16e37a69 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t236}}} to stack=1 task=236 at 0
+V/WindowManager(  515): Adding window Window{2faccd9e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{1e9e0bc6 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{161cfd4 token=Token{1a0a4127 ActivityRecord{38127e6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t237}}} to stack=1 task=237 at 0
+V/WindowManager(  515): Adding window Window{218ca26e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{1edc2e1f u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1e9a0e8a token=Token{85210f5 ActivityRecord{21763e2c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t238}}} to stack=1 task=238 at 0
+V/WindowManager(  515): Adding window Window{1153b0cf u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{1af869ad u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{348f214 token=Token{6eb8467 ActivityRecord{1a5c7026 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t239}}} to stack=1 task=239 at 0
+V/WindowManager(  515): Adding window Window{317d1bdc u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{2fba995f u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{27dc18b1 token=Token{26e0df58 ActivityRecord{36cd8c3b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t240}}} to stack=1 task=240 at 0
+V/WindowManager(  515): Adding window Window{1176ce88 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{29a04170 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{83d70ad token=Token{2628e9c4 ActivityRecord{3fd6ccd7 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t241}}} to stack=1 task=241 at 0
+V/WindowManager(  515): Adding window Window{1932ff06 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 4 of 10 (before Window{2639ad5c u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{205d823b token=Token{e8b30ca ActivityRecord{d255435 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t261}}} to stack=1 task=261 at 0
+I/ActivityManager(  515): Start proc 11508:com.google.android.GoogleCamera/u0a42 for activity com.google.android.GoogleCamera/com.android.camera.CameraLauncher
+V/WindowManager(  515): Adding window Window{8b5a7b8 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{20f10f22 u0 Starting com.google.android.GoogleCamera})
+V/WindowManager(  515): Adding window Window{1c8237ec u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{341aa345 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{26a7b0ac token=Token{1a3e5f ActivityRecord{2ba76fe u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t263}}} to stack=1 task=263 at 0
+V/WindowManager(  515): Adding window Window{2df47286 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{15d79a57 u0 Starting com.google.android.GoogleCamera})
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{ecf2f2b token=Token{1494bb7a ActivityRecord{a689ba5 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t264}}} to stack=1 task=264 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1188dcc u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{1eb3fd2 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +522ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{398011d7 token=Token{2be0d56 ActivityRecord{1ed6db71 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t265}}} to stack=1 task=265 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1d3cd448 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{279712e u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +548ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1d215b84 token=Token{3406ed97 ActivityRecord{336c0016 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t266}}} to stack=1 task=266 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{38b43c9e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3f53f88f u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +566ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{275b5e6b token=Token{18831fba ActivityRecord{1fbce8e5 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t267}}} to stack=1 task=267 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1ac2eb6a u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3839ec12 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +587ms
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{31fe600f token=Token{14d8516e ActivityRecord{250dc0e9 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t268}}} to stack=1 task=268 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{30c3cdb8 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{29e52046 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +550ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1a293361 token=Token{2ffbf6c8 ActivityRecord{3cf19b6b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t269}}} to stack=1 task=269 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1781f4d3 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3b38d6e0 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +651ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_PrecaptureStart>
+W/MtkCam/GraphicImageBufferHeap(  144): create() based-on camera3_stream_buffer...
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:513 15 Frame Rate:100
+D/aaa_state_camera_preview(  144): sendIntent(intent2type<eIntent_CaptureStart>) line(622), frame(0)
+D/MEXIF   (  144): (12394)[ExifUtils] - this:0xb7bbbe08, debug.camera.exif.loglevel=1
+D/MEXIF   (  144): (12394)[ExifUtils] - this:0xb7c940c0, debug.camera.exif.loglevel=1
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+W/CAM_ExifParser(11508): Failed to skip to data at: 0 for com.android.camera.exif.ExifParser$IfdEvent, the file may be broken.
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:5504 Isp Gain:1040 Flare:513 15 Frame Rate:150
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+I/ActivityManager(  515): Start proc 12428:com.google.android.apps.photos/u0a56 for broadcast com.google.android.apps.photos/.camerashortcut.CameraShortcutBroadcastReceiver
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+W/TrustedPartners(12428): no provider found for com.motorola.camera.provider.bestshotprovider.BestShotProvider; do not trust
+I/ActivityManager(  515): Start proc 12463:com.google.android.apps.photos:CameraShortcut/u0a56 for service com.google.android.apps.photos/.camerashortcut.CameraShortcutServiceImpl
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1a7bfb32 token=Token{21aa73d ActivityRecord{1995a094 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t270}}} to stack=1 task=270 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{35ac1d2e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3ce480f5 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +644ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:2576 Flare:513 15 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+W/TrustedPartners(12463): no provider found for com.motorola.camera.provider.bestshotprovider.BestShotProvider; do not trust
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{d70054a token=Token{3cfeaab5 ActivityRecord{367226ec u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t271}}} to stack=1 task=271 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{feb348f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{39e67b6d u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +559ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:2400 Flare:513 15 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{396b45b token=Token{2e3f576a ActivityRecord{184d7155 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t272}}} to stack=1 task=272 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1afafc7d u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{1cef69c2 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +567ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3168 Flare:513 15 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3bf7da0b token=Token{365bc5da ActivityRecord{13d5d385 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t273}}} to stack=1 task=273 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{d4bd12c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{137d3632 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +528ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:39994 Sensor Gain:8192 Isp Gain:1216 Flare:514 16 Frame Rate:250
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2d40e189 token=Token{1a6490 ActivityRecord{d418353 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t274}}} to stack=1 task=274 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{13ed64f2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{e6e35a8 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +468ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:49998 Sensor Gain:8192 Isp Gain:1200 Flare:514 19 Frame Rate:200
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{34474b36 token=Token{1ca8e4d1 ActivityRecord{3e2ec7f8 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t275}}} to stack=1 task=275 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{36adab40 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{25a25d09 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +568ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:60002 Sensor Gain:8192 Isp Gain:1139 Flare:515 25 Frame Rate:166
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{29ff0a6 token=Token{136ffa01 ActivityRecord{add33e8 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t276}}} to stack=1 task=276 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{3f985afb u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3b30e839 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +513ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1144 Flare:514 23 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{74ae223 token=Token{fe3ff52 ActivityRecord{b0da7dd u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t277}}} to stack=1 task=277 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{2ced6e05 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{2cb426aa u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +625ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1144 Flare:514 21 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2f181110 token=Token{1d3011d3 ActivityRecord{2c465fc2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t278}}} to stack=1 task=278 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{16ab08d4 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{2ffde84b u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +468ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1352 Flare:513 15 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{316d06e8 token=Token{3f7a580b ActivityRecord{30817bda u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t279}}} to stack=1 task=279 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{19fb85e2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3513bd83 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +561ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1144 Flare:513 15 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{bb5d64a token=Token{2e651fb5 ActivityRecord{e454fec u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t280}}} to stack=1 task=280 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{942a18f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{1906906d u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +513ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:39994 Sensor Gain:8192 Isp Gain:1136 Flare:513 15 Frame Rate:250
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{356c8837 token=Token{312e136 ActivityRecord{3bad12d1 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t281}}} to stack=1 task=281 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{12555a1f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3a58e10e u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +596ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:39994 Sensor Gain:8192 Isp Gain:1136 Flare:514 19 Frame Rate:250
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1ac25639 token=Token{3d7afe00 ActivityRecord{3327dc83 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t282}}} to stack=1 task=282 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{34a580e2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{233a8d18 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +541ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{302104a7 token=Token{2772c966 ActivityRecord{a57bdc1 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t283}}} to stack=1 task=283 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{104f11d8 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{37679f3e u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +538ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1a46173c token=Token{3cee52f ActivityRecord{3a71370e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t284}}} to stack=1 task=284 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{2cc6a70f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{1f004b27 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +630ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{fe0e606 token=Token{1afe8e1 ActivityRecord{1a3e1248 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t285}}} to stack=1 task=285 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1f0eedb u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{39e3d319 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +550ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2ca2f984 token=Token{3c344397 ActivityRecord{3140ee16 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t286}}} to stack=1 task=286 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{3769dea1 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{9160e8f u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +521ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{d9a4e6 token=Token{1aead741 ActivityRecord{2ab03e28 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t287}}} to stack=1 task=287 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{19b52370 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{39022d79 u0 Starting com.google.android.GoogleCamera})
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +824ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2d9df91d token=Token{3b6d8df4 ActivityRecord{2d53a3c7 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t288}}} to stack=1 task=288 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{2fa70cb7 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3c88a78c u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +517ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:49998 Sensor Gain:8192 Isp Gain:1228 Flare:513 9 Frame Rate:200
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{f2ed5e5 token=Token{30c840dc ActivityRecord{35ff314f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t289}}} to stack=1 task=289 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{37824437 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{202adc9d u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +598ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{202ed491 token=Token{16db9eb8 ActivityRecord{1ec82d1b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t290}}} to stack=1 task=290 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{c91c2da u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{1b878cd0 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +615ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:513 9 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{38298a8c token=Token{e35d3bf ActivityRecord{181b85de u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t291}}} to stack=1 task=291 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{222aa289 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{2647bb7 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +500ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:513 9 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{20e35274 token=Token{10abaa47 ActivityRecord{34d00186 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t292}}} to stack=1 task=292 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{3383003c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{24dd9b3f u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +664ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{250f8393 token=Token{18998082 ActivityRecord{13f0afcd u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t293}}} to stack=1 task=293 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{b37bb94 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{3e129dda u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +611ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{89a3db6 token=Token{47e1151 ActivityRecord{da2d678 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t294}}} to stack=1 task=294 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{14fe01cb u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{24609989 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +502ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{162faad3 token=Token{1b90bcc2 ActivityRecord{3e0a350d u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t295}}} to stack=1 task=295 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{29079d35 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{ad221a u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +587ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1096 Flare:512 0 Frame Rate:300
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{369817df token=Token{3689c67e ActivityRecord{f16a039 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t296}}} to stack=1 task=296 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{38a99930 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{158e2756 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +499ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1243 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{d9f77f2 token=Token{295f1efd ActivityRecord{3b461f54 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t297}}} to stack=1 task=297 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{20e61a16 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{11c830b5 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +427ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{218237c2 token=Token{2538bc0d ActivityRecord{3bdec6a4 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t298}}} to stack=1 task=298 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{bf1b66c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{1f765fc5 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +746ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{23e4500b token=Token{cf853da ActivityRecord{13f3d985 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t299}}} to stack=1 task=299 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{10f9af2c u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{335d8432 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +627ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{32808789 token=Token{3598e290 ActivityRecord{13d33953 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t300}}} to stack=1 task=300 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{33cbb2f2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 3 of 9 (before Window{297e73a8 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +578ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:512 0 Frame Rate:300
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1d475131 token=Token{3b8ba9d8 ActivityRecord{3c92f0bb u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t302}}} to stack=1 task=302 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{7211823 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{2a89dbf0 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +675ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1232 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3628cfba token=Token{1aab58e5 ActivityRecord{3028efdc u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t303}}} to stack=1 task=303 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1b97d73f u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{2854bf9d u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +593ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:39994 Sensor Gain:8192 Isp Gain:1064 Flare:512 0 Frame Rate:250
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1de530e9 token=Token{222ad570 ActivityRecord{273babb3 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t304}}} to stack=1 task=304 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{211eaad2 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{163fe288 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +518ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1320 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{304daba7 token=Token{255dac66 ActivityRecord{21644cc1 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t305}}} to stack=1 task=305 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{4c36c69 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{56be23e u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +725ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1232 Flare:512 0 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2fdb1f44 token=Token{13c26857 ActivityRecord{6d1add6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t306}}} to stack=1 task=306 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{1e2c0b4f u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +574ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:1339 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowStateAnimator.stepAnimationLocked:293 com.android.server.wm.WindowAnimator.updateWindowsLocked:289 com.android.server.wm.WindowAnimator.animateLocked:674 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowState.getDisplayId:787 com.android.server.wm.WindowStateAnimator.computeShownFrameLocked:1057 com.android.server.wm.WindowStateAnimator.prepareSurfaceLocked:1476 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowStateAnimator.updateSurfaceWindowCrop:1284 com.android.server.wm.WindowStateAnimator.setSurfaceBoundariesLocked:1459 com.android.server.wm.WindowStateAnimator.prepareSurfaceLocked:1478 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowState.isDefaultDisplay:1286 com.android.server.wm.WindowStateAnimator.updateSurfaceWindowCrop:1294 com.android.server.wm.WindowStateAnimator.setSurfaceBoundariesLocked:1459 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowManagerService.assignLayersLocked:8705 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:9693 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:8789 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:8731 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:9750 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:8789 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:8731 com.android.server.wm.WindowManagerService.access$400:162 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowStateAnimator.updateSurfaceWindowCrop:1284 com.android.server.wm.WindowStateAnimator.setSurfaceBoundariesLocked:1459 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:9838 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowState.isDefaultDisplay:1286 com.android.server.wm.WindowStateAnimator.updateSurfaceWindowCrop:1294 com.android.server.wm.WindowStateAnimator.setSurfaceBoundariesLocked:1459 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowState.getDisplayId:787 com.android.server.wm.WindowState.dump:1466 com.android.server.wm.WindowManagerService.rebuildAppWindowListLocked:8643 
+W/WindowManager(  515): This window was lost: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher}
+W/WindowManager(  515): mToken=AppWindowToken{2fdb1f44 token=Token{13c26857 ActivityRecord{6d1add6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t306}}}
+W/WindowManager(  515): mRootToken=AppWindowToken{2fdb1f44 token=Token{13c26857 ActivityRecord{6d1add6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t306}}}
+W/WindowManager(  515): mAppToken=AppWindowToken{2fdb1f44 token=Token{13c26857 ActivityRecord{6d1add6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t306}}}
+W/WindowManager(  515): WindowStateAnimator{290edf6c com.google.android.GoogleCamera/com.android.camera.CameraLauncher}:
+W/WindowManager(  515):   mSurface=Surface(name=com.google.android.GoogleCamera/com.android.camera.CameraLauncher)
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowState.getWindowList:1354 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2774 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:10144 
+E/WindowState(  515): getStack: Window{27b1f561 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} couldn't find taskId=306 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:10145 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:8789 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:8731 
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{15f1e9ff token=Token{21fd0d1e ActivityRecord{f065d59 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t307}}} to stack=1 task=307 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{23a0e01 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{320fa1f6 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +705ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:7960 Isp Gain:1040 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{c44cd3e token=Token{31d289f9 ActivityRecord{1c20a8c0 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t308}}} to stack=1 task=308 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{2ee496a1 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{12667f31 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +715ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2d47ce0c token=Token{129cf53f ActivityRecord{360c3d5e u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t309}}} to stack=1 task=309 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1e872cd4 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{437d2a4 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +648ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:3392 Flare:512 0 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3290e501 token=Token{1d92eae8 ActivityRecord{36b94c0b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t310}}} to stack=1 task=310 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{298bc9f5 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{39f62f00 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +528ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:39994 Sensor Gain:8192 Isp Gain:1069 Flare:512 0 Frame Rate:250
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1fb73a20 token=Token{333cf523 ActivityRecord{18d67e52 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t311}}} to stack=1 task=311 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1774ad5a u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{2db9e59b u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +673ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:39994 Sensor Gain:8192 Isp Gain:1069 Flare:512 0 Frame Rate:250
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1f7626d1 token=Token{36bfd1f8 ActivityRecord{381c255b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t312}}} to stack=1 task=312 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{7c4441a u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{3ed6e810 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +692ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:6384 Isp Gain:1034 Flare:512 2 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{d1436b8 token=Token{ea4251b ActivityRecord{1bcd132a u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t313}}} to stack=1 task=313 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{1a2fab32 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{9e81c93 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +646ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:5504 Isp Gain:1040 Flare:513 8 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{337892a8 token=Token{2511bacb ActivityRecord{19a1b19a u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t314}}} to stack=1 task=314 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{3d811ab5 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{2c5cb843 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +598ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:1877 Flare:513 8 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3b0cc5b9 token=Token{22b37b80 ActivityRecord{2f25e003 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t315}}} to stack=1 task=315 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{27b24a6b u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{3c553a98 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +740ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:1376 Flare:513 8 Frame Rate:100
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{89ad6e token=Token{2d7b0ce9 ActivityRecord{153ea170 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t316}}} to stack=1 task=316 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{3b7163a3 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{265e7021 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +518ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:1493 Flare:513 8 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{31876592 token=Token{33a1bf1d ActivityRecord{27acabf4 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t317}}} to stack=1 task=317 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{3f8369bc u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{97ab4d5 u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +649ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:99996 Sensor Gain:8192 Isp Gain:1267 Flare:513 8 Frame Rate:100
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3dba2b13 token=Token{7301602 ActivityRecord{3a162b4d u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t318}}} to stack=1 task=318 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{f2b9367 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{3b36635a u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +567ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:6896 Isp Gain:1032 Flare:512 7 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{290e6d0d token=Token{11a89ba4 ActivityRecord{2c609a37 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t319}}} to stack=1 task=319 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{3098d535 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{2c01bb3c u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +688ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:5504 Isp Gain:1040 Flare:512 5 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraLauncher bnds=[372,674][460,782] (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2585d694 token=Token{f332ae7 ActivityRecord{36f8a0a6 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher t320}}} to stack=1 task=320 at 0
+I/CAM2PORT_AndCamAgntImp(11508): Opening camera 0 with camera1 API
+V/WindowManager(  515): Adding window Window{fb3d571 u0 com.google.android.GoogleCamera/com.android.camera.CameraLauncher} at 5 of 11 (before Window{27808fdf u0 Starting com.google.android.GoogleCamera})
+I/CAM_PhotoModule(11508): attempted to start preview before camera device
+I/ActivityManager(  515): Displayed com.google.android.GoogleCamera/com.android.camera.CameraLauncher: +650ms
+D/ae_mgr  (  144): [AeMgr]cameraPreviewInit i4SensorDev:1 i4SensorIdx:0
+D/ae_mgr  (  144): [cameraPreviewInit] Sensor Dev:1 Exp Mode: 0 Shutter:29991 Sensor Gain:8192 Isp Gain:1232 Flare:512 1 Frame Rate:300
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/MtkCam/MetadataConvert(  144): Convert from camera_metadata to IMetadata
+D/aaa_state_camera_preview(  144): [StateCameraPreview::sendIntent]<eIntent_CameraPreviewEnd>
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleC

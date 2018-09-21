@@ -1,0 +1,55 @@
+Script Start at : Fri Jun 30 15:59:30 2017
+
+
+Going to Test  ['init', '1', 'discover', '1', 'delete', '1']
+
+connecting to mysql database
+
+
+..................initilizing .................
+
+client is intialized with mode type as client
+Delete All Tables before Discovering Devices  0
+Discovering Resources:
+result: 0 
+Thread created for client observe
+Waiting
+****************************************************
+Resource name: /a/Srinu_IP
+Resource handle: 0x7f70600008f0 
+****************************************************
+
+****************************************************
+Resource name: /a/Sample
+Resource handle: 0x7f7060009670 
+****************************************************
+
+in sleep in python after discovery
+****************************************
+Resource_Name : /a/Srinu_IP
+Resource_Handle : 0x7f70600008f0
+****************************************
+****************************************
+Resource_Name : /a/Sample
+Resource_Handle : 0x7f7060009670
+****************************************
+****************************************
+Resource_Name : /a/Srinu_IP
+Resource_Handle : 0x7f70600008f0
+****************************************
+****************************************
+Resource_Name : /a/Sample
+Resource_Handle : 0x7f7060009670
+****************************************
+delete called for Handle:  0x7f70600008f0
+handle_Delete : 0x7f70600008f0
+deleting from discover 
+****************************************
+Resource_Name : /a/Sample
+Resource_Handle : 0x7f7060009670
+****************************************
+Handle deleted successfuly :  0x7f70600008f0
+
+Disconnecting from mysql database****
+
+Script End at : Fri Jun 30 15:59:51 2017

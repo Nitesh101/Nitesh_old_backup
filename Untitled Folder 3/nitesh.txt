@@ -1,0 +1,73 @@
+x1. The kernel is limited to about 1GB of virtual and physical memory.
+
+The kernel's memory is not pageable.
+
+The kernel usually wants physically contiguous memory.
+
+Often, the kernel must allocate the memory without sleeping.
+
+Mistakes in the kernel have a much higher price than they do elsewhere.
+
+Although easy access to an abundance of memory certainly is not a luxury to the kernel, a little understanding of the issues can go a long way toward making the process relatively painless.
+
+A General-Purpose Allocator
+The general interface for allocating memory inside of the kernel is kmalloc():
+
+Function	Description
+malloc	allocates the specified number of bytes
+realloc	increases or decreases the size of the specified block of memory. Reallocates it if needed
+calloc	allocates the specified number of bytes and initializes them to zero
+free	releases the specified block of memory back to the system
+
+virtual memory is a memory management technique that is implemented using both hardware and software. 
+It maps memory addresses used by a program, called virtual addresses, into physical addresses in computer memory. 
+Main storage as seen by a process or task appears as a contiguous address space or collection of contiguous segments. 
+The operating system manages virtual address spaces and the assignment of real memory to virtual memory. 
+Address translation hardware in the CPU, 
+often referred to as a memory management unit or MMU, automatically translates virtual addresses to physical addresses.
+ Software within the operating system may extend these capabilities to provide a virtual address space
+ that can exceed the capacity of real memory and thus reference more memory than is physically present in the computer.
+
+2. the malloc() can be called in user-space and kernel-space, and it allocates a physically fragmented memory area
+but kmalloc() can be called only in kernel-space, and it allocates physically contiguous memory chunk
+
+3. 
+ Quoted from the Power.org Standard for Embedded Power
+Architecture Platform Requirements (ePAPR)
+I The ePAPR specifies a concept called a device tree to describe
+system hardware. A boot program loads a device tree into a
+client program’s memory and passes a pointer to the device
+tree to the client.
+I A device tree is a tree data structure with nodes that describe
+the physical devices in a system.
+I An ePAPR-compliant device tree describes device information
+in a system that cannot be dynamically detected by a client
+program.
+
+
+5. 
+The first thing that needs to be addressed is: What is a bus? A bus is a communication unit that allows 
+the CPU to interact with peripherals, there are different type of buses such as PCI, I2C, MDIO, Memory Buses, 
+etc. Normally each bus would have its own protocol for transmitting data across devices, for example in the
+ case of PCI you can have timeout errors or windows errors (data is directed to unknown addresses/devices). 
+In memory, bus errors would refer to alignment but other errors could be attributed to physical HW problems 
+such as faulty connections. Other type of bus errors could be single and multiple bit errors, this could be 
+addressed by using ECC memory.
+7. 
+Do ps -AL | grep pid 
+1st column is parent id and the second column is thread (LWP) id. if both are same then its a process id 
+otherwise thread.
+8. 
+upper half and lower half are the terms related to interrupt handler and hardware devices only via drivers 
+raise interrupts in this context , they asked u in form of device driver. Each device has to register its 
+interrupt handler (which is the part of device driver. Now for devices which raise interrupt frequently or 
+in case when same interrupt handler is used via devices so to increase the service performance driver designers
+ design the handlers in such a way that whenever an interrupt occurs the OS does the most important part of handler '
+"upper half" to respond to interrupt,create a data structure containing device specific data called "lower half" for 
+later processing when CPU becomes available. This way interrupt handlers can be used in case when the interrupt raise
+ frequency is high.
+9. 
+
+SIGKILL is equivalent of "kill -9" and is used to kill zombie processes, processes that are already dead and
+ waiting for their parent processes to reap them. 
+SIGABRT is equivalent of "kill -6" and is used to terminate/abort running processes. 

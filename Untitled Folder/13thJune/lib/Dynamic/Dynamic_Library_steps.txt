@@ -1,0 +1,12 @@
+# gcc -c -fpic stack.c
+
+# gcc -shared -o mydynamic.so stack.o
+
+# echo $LD_LIBARY_PATH
+
+# export LD_LIBRARY_PATH = /home/vutuksre/Ds_Py/13thJune/lib/Dynamic
+
+# gcc main.c -I -L mydynamic.so 
+
+# ./a.out
+

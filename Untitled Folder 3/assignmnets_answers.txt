@@ -1,0 +1,21 @@
+﻿Loops:-
+
+1.   
+for i in range(3):
+		Print i
+2.
+for i in range(1,3):
+	print i
+3.
+for i in range(1,10,1):
+	print i
+7.
+ a = int(input("please enter a value %s: "))
+ count=0
+ for i in range(2,a):
+         if (a%i==0):
+		print "this is not a prime"
+		count+=1
+		break
+if(count==0)
+	print "this is prime number"

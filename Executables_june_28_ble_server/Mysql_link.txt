@@ -1,0 +1,10 @@
+
+for mysql
+https://www.cyberciti.biz/faq/howto-install-mysql-on-ubuntu-linux-16-04/
+
+for Bluez 
+Download 5.37 version from:
+http://www.bluez.org/page/2/
+and follow readme doc
+
+

@@ -1,0 +1,22 @@
+staticmain:obj/statmain.o obj/queue.o lib/libstat.a
+	gcc -o staticmain obj/statmain.o obj/queue.o -Iinclude/ -Llib/ -lstat
+
+obj/statmain.o:src/statmain.c
+	gcc -c ./src/statmain.c -Iinclude -o ./obj/statmain.o
+
+obj/queue.o:src/queue.c
+	gcc -c src/queue.c -o obj/queue.o
+
+lib/libstat.a:obj/queue.o
+	ar rcs ./lib/libstat.a ./obj/queue.o
+
+cleanobj:
+	rm obj/*.o
+
+cleanexe:
+	rm staticmain
+
+clean:
+	rm obj/*.o
+	rm lib/*.a
+	rm staticmain

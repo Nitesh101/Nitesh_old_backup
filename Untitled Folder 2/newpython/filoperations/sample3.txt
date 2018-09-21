@@ -1,0 +1,4 @@
+A revised ouput file!
+write some more.
+A revised output file with append option!
+Write some more with append.

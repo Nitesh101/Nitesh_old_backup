@@ -1,0 +1,24 @@
+I/ActivityManager(  515): Start proc 4560:com.google.android.deskclock/u0a37 for backup com.google.android.deskclock/com.android.deskclock.DeskClockBackupAgent
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{6c0a7d5 token=Token{f77648c ActivityRecord{10ad5bf u0 com.google.android.deskclock/com.android.deskclock.DeskClock t213}}} to stack=1 task=213 at 0
+I/ActivityManager(  515): Start proc 8166:com.google.android.deskclock/u0a37 for activity com.google.android.deskclock/com.android.deskclock.DeskClock
+V/WindowManager(  515): Adding window Window{247df1f9 u0 com.google.android.deskclock/com.android.deskclock.DeskClock} at 6 of 12 (before Window{cf3b924 u0 Starting com.google.android.deskclock})
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{2d133a75 token=Token{30441dac ActivityRecord{27e03f5f u0 com.google.android.deskclock/com.android.deskclock.DeskClock t221}}} to stack=1 task=221 at 0
+V/WindowManager(  515): Adding window Window{2c9d40ae u0 com.google.android.deskclock/com.android.deskclock.DeskClock} at 6 of 12 (before Window{d3a7644 u0 Starting com.google.android.deskclock})
+I/AlarmClock(11032): AlarmInitReceiver android.intent.action.TIME_SET
+I/AlarmClock(11032): AlarmInitReceiver android.intent.action.TIME_SET
+I/AlarmClock(11032): AlarmInitReceiver android.intent.action.TIME_SET
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{da6b224 token=Token{18c6fab7 ActivityRecord{3b5d8db6 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t255}}} to stack=1 task=255 at 0
+V/WindowManager(  515): Adding window Window{2c58ef43 u0 com.google.android.deskclock/com.android.deskclock.DeskClock} at 3 of 9 (before Window{3c2489af u0 Starting com.google.android.deskclock})
+I/ActivityManager(  515): Displayed com.google.android.deskclock/com.android.deskclock.DeskClock: +756ms
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{3262f5d9 token=Token{1d01d820 ActivityRecord{eb74b23 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t256}}} to stack=1 task=256 at 0
+V/WindowManager(  515): Adding window Window{1e600749 u0 com.google.android.deskclock/com.android.deskclock.DeskClock} at 3 of 9 (before Window{193e8b38 u0 Starting com.google.android.deskclock})
+I/ActivityManager(  515): Displayed com.google.android.deskclock/com.android.deskclock.DeskClock: +292ms
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock (has extras)} from uid 10024 on display 0
+V/WindowManager(  515): addAppToken: AppWindowToken{1e87fa9d token=Token{2ca0a574 ActivityRecord{388e6947 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t257}}} to stack=1 task=257 at 0
+V/WindowManager(  515): Adding window Window{501c50d u0 com.google.android.deskclock/com.android.deskclock.DeskClock} at 3 of 9 (before Window{1f172f0c u0 Starting com.google.android.deskclock})
+I/ActivityManager(  515): Displayed com.google.android.deskclock/com.android.deskclock.DeskClock: +272ms
+I/ActivityManager(  515): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] fl
